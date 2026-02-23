@@ -15,7 +15,9 @@ This project represents my journey as an MCA student and aspiring DevOps Enginee
 
 ## 📸 Preview
 
-![Portfolio Preview](preview.gif)
+**Watch the video**
+
+- https://vivek-portfolio-2026.s3.ap-southeast-1.amazonaws.com/preview.gif.mp4
 
 ---
 
